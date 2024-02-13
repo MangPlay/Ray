@@ -1,0 +1,2 @@
+---,ID,EquipmentSlot,ItemClass,Quantity,Durability,Index,bIsEquipped,bAlreadyUsed,ValueModifier
+GoldenCoins,GoldenCoins,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Currency/BP_Coins.BP_Coins_C',1,100,0,FALSE,FALSE,1

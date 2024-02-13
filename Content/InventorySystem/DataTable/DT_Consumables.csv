@@ -1,0 +1,10 @@
+---,ID,EquipmentSlot,ItemClass,Quantity,Durability,Index,bIsEquipped,bAlreadyUsed,ValueModifier
+Bread,Bread,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_Bread.BP_Bread_C',1,100,0,FALSE,FALSE,1
+Lagerbeer,Lagerbeer,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_LagerBeer.BP_LagerBeer_C',1,100,0,FALSE,FALSE,1
+GreaterHealingPotion,GreaterHealingPotion,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_GreaterHealingPotion.BP_GreaterHealingPotion_C',1,100,0,FALSE,FALSE,1
+HealingPotion,HealingPotion,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_HealingPotion.BP_HealingPotion_C',1,100,0,FALSE,FALSE,1
+PotionOfStrength,PotionOfStrength,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_PotionOfStrength.BP_PotionOfStrength_C',1,100,0,FALSE,FALSE,1
+PotionofFortifyHealth,PotionofFortifyHealth,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_PotionOfFortifyHealth.BP_PotionOfFortifyHealth_C',1,100,0,FALSE,FALSE,1
+SmallStaminaPotion,SmallStaminaPotion,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_SmallStaminaPotion.BP_SmallStaminaPotion_C',1,100,0,FALSE,FALSE,1
+PotionofFortifyArmor,PotionOfFortifyArmor,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_PotionOfFortifyArmor.BP_PotionOfFortifyArmor_C',1,100,0,FALSE,FALSE,1
+PotionofFortifyStamina,PotionofFortifyStamina,Pocket1,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Consumables/BP_PotionOfFortifyStamina.BP_PotionOfFortifyStamina_C',1,100,0,FALSE,FALSE,1

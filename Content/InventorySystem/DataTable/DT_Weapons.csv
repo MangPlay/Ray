@@ -1,0 +1,9 @@
+---,ID,EquipmentSlot,ItemClass,Quantity,Durability,Index,bIsEquipped,bAlreadyUsed,ValueModifier
+Sword01,Sword01,Weapon,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Weapons/BP_Sword01.BP_Sword01_C',1,100,0,FALSE,FALSE,1
+Sword02,Sword02,Weapon,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Weapons/BP_Sword02.BP_Sword02_C',1,100,0,FALSE,FALSE,1
+Sword03,Sword03,Weapon,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Weapons/BP_Sword03.BP_Sword03_C',1,100,0,FALSE,FALSE,1
+Sword04,Sword04,Weapon,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Weapons/BP_Sword04.BP_Sword04_C',1,100,0,FALSE,FALSE,1
+WarHammer01,WarHammer01,Weapon,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Weapons/BP_Warhammer01.BP_Warhammer01_C',1,100,0,FALSE,FALSE,1
+Warhammer02,Warhammer02,Weapon,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Weapons/BP_Warhammer02.BP_Warhammer02_C',1,100,0,FALSE,FALSE,1
+Axe01,Axe01,Weapon,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Weapons/BP_Axe01.BP_Axe01_C',1,99,0,FALSE,FALSE,1
+Shield01,Shield01,Shield,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Shields/BP_Shield01.BP_Shield01_C',1,100,0,FALSE,FALSE,1

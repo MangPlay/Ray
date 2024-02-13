@@ -1,0 +1,6 @@
+---,ID,EquipmentSlot,ItemClass,Quantity,Durability,Index,bIsEquipped,bAlreadyUsed,ValueModifier
+Book01LBrown,Book01LBrown,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Other/BP_Book01LBrown.BP_Book01LBrown_C',1,100,0,FALSE,FALSE,1
+Book01Red,Book01Red,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Other/BP_Book01Red.BP_Book01Red_C',1,100,0,FALSE,FALSE,1
+Book01Green,Book01Green,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Other/BP_Book01Green.BP_Book01Green_C',1,100,0,FALSE,FALSE,1
+Book01Purple,Book01Purple,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Other/BP_Book01Purple.BP_Book01Purple_C',1,100,0,FALSE,FALSE,1
+MysteriousLetter01,MysteriousLetter01,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Other/BP_MysteriousLetter01.BP_MysteriousLetter01_C',1,100,0,FALSE,FALSE,1

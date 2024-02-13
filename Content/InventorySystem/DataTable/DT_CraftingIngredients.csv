@@ -1,0 +1,14 @@
+---,ID,EquipmentSlot,ItemClass,Quantity,Durability,Index,bIsEquipped,bAlreadyUsed,ValueModifier
+Steel,Steel,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_Steel.BP_Steel_C',1,100,0,FALSE,FALSE,1
+Gold,Gold,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_Gold.BP_Gold_C',1,100,0,FALSE,FALSE,1
+Silver,Silver,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_Silver.BP_Silver_C',1,100,0,FALSE,FALSE,1
+Bronze,Bronze,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_Bronze.BP_Bronze_C',1,100,0,FALSE,FALSE,1
+Leather,Leather,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_Leather.BP_Leather_C',1,100,0,FALSE,FALSE,1
+Copper,Copper,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_Copper.BP_Copper_C',1,100,0,FALSE,FALSE,1
+ClothBlue,ClothBlue,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_ClothBlue.BP_ClothBlue_C',1,100,0,FALSE,FALSE,1
+ClothGreen,ClothGreen,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_ClothGreen.BP_ClothGreen_C',1,100,0,FALSE,FALSE,1
+ClothRed,ClothRed,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_ClothRed.BP_ClothRed_C',1,100,0,FALSE,FALSE,1
+Wood,Wood,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_Wood.BP_Wood_C',1,100,0,FALSE,FALSE,1
+GemstoneAzure,GemstoneAzure,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_GemstoneAzure.BP_GemstoneAzure_C',1,100,0,FALSE,FALSE,1
+GemstoneRuby,GemstoneRuby,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_GemstoneRuby.BP_GemstoneRuby_C',1,100,0,FALSE,FALSE,1
+Twine,Twine,None,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/CraftingIngredients/BP_Twine.BP_Twine_C',1,100,0,FALSE,FALSE,1

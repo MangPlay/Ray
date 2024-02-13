@@ -1,0 +1,13 @@
+---,ID,EquipmentSlot,ItemClass,Quantity,Durability,Index,bIsEquipped,bAlreadyUsed,ValueModifier
+Helm,Helm,Head,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Helm.BP_Helm_C',1,100,0,FALSE,FALSE,1
+Legs01_Silver,Legs01_Silver,Legs,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Legs01_Silver.BP_Legs01_Silver_C',1,100,0,FALSE,FALSE,1
+Legs01_Bronze,Legs01_Bronze,Legs,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Legs01_Bronze.BP_Legs01_Bronze_C',1,100,0,FALSE,FALSE,1
+Gloves01_Silver,Gloves01_Silver,Gloves,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Gloves01_Silver.BP_Gloves01_Silver_C',1,100,0,FALSE,FALSE,1
+Gloves01_Gold,Gloves01_Gold,Gloves,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Gloves01_Gold.BP_Gloves01_Gold_C',1,100,0,FALSE,FALSE,1
+Boots01,Boots01,Boots,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Boots01.BP_Boots01_C',1,100,0,FALSE,FALSE,1
+Chestplate01A,Chestplate01A,Chestplate,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Chestplate01A.BP_Chestplate01A_C',1,100,0,FALSE,FALSE,1
+Chestplate01C,Chestplate01C,Chestplate,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Chestplate01C.BP_Chestplate01C_C',1,100,0,FALSE,FALSE,1
+Chestplate01B,Chestplate01B,Chestplate,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Chestplate01B.BP_Chestplate01B_C',1,100,0,FALSE,FALSE,1
+Chestplate02,Chestplate02,Chestplate,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Chestplate02.BP_Chestplate02_C',1,100,0,FALSE,FALSE,1
+Necklace01_Blue,Necklace01_Blue,Neck,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Necklace01_Blue.BP_Necklace01_Blue_C',1,100,0,FALSE,FALSE,1
+Necklace01_Red,Necklace01_Red,Neck,/Script/Engine.BlueprintGeneratedClass'/Game/RPG_InventorySystem/Classes/MainItemClasses/Armor/BP_Necklace01_Red.BP_Necklace01_Red_C',1,100,0,FALSE,FALSE,1
